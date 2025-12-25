@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AbdellahZak
-- 👀 I’m interested in programming, electronics, embedded systems.
-- 🌱 I’m currently learning Python and C++.
-- 💞️ I’m looking to collaborate on open source projects in Embedded systems.
-- 📫 How to reach me :zakaniabd@gmail.com
+Fire vision, Machine learning project C946
+-Creating a YOLO based model specifically for fire detection.
+-Project can be run through any Google Colab space.
+-Model training is doen with pre annotated dataset from : https://universe.roboflow.com
 
-<!---
-AbdellahZak/AbdellahZak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
